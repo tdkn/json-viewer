@@ -11,6 +11,7 @@
     "mobx": "5.8.0",
     "mobx-react": "latest",
     "mobx-state-tree": "3.10.0",
+    "node-sass": "4.11.0",
     "normalize.css": "8.0.1",
     "react": "16.5.2",
     "react-codemirror": "1.0.0",
